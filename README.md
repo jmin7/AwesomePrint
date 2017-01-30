@@ -55,7 +55,8 @@ It is quite difficult to see each data.
 rails c
 ap City.all
 ```
+Don't forget to put ap.
 
 ![](http://postfiles16.naver.net/MjAxNzAxMzFfNTcg/MDAxNDg1ODE1NDQ5NDA2.NiD0Ix-MWSEeHrm8ixJnrK8pWSGDkQI_GBSEt1SlNAwg.AsWwBUT1ddNg5DlV856DUK4nrM2nBrAn9GIVJxnYePcg.PNG.nosugars/after.png?type=w3)
 
-**Data is beautified !!!! **
+**Data is beautified !!!!**
