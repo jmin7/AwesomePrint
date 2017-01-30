@@ -28,7 +28,9 @@ Do "bundle install" in your terminal and restart the rails console.
 
 ## you are ready to use Awesome Print !!!
 
-
+<br>
+<br>
+<br>
 
 # Before using Awesome Print
 
