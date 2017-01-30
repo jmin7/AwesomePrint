@@ -41,7 +41,7 @@ rails c
 City.all
 ```
 
-![](http://postfiles14.naver.net/MjAxNzAxMzFfMjQg/MDAxNDg1ODE0NTM2Mjk1.r4ocxiJZQ8WaOrOFUVokfSfzHr3G2tGR7-xhhgDx-uog.4gHoewweknw4wCjlnd_oEM5S0sdmhho6ShtYObj8CEEg.PNG.nosugars/before.png?type=w580)
+![](http://postfiles13.naver.net/MjAxNzAxMzFfMTk1/MDAxNDg1ODE1NDQ4NjE2.naI4nbsOSTvb8CRtfNGoEc80nynAAu7NDNWd0fhnEfgg.3F6Oh2khX7MV1PPTYdmSMieDWheiPIoUkrQnK4XpZLMg.PNG.nosugars/before.png?type=w3)
 
 It is quite difficult to see each data.
 <br>
@@ -56,6 +56,6 @@ rails c
 ap City.all
 ```
 
-![](http://postfiles14.naver.net/MjAxNzAxMzFfMjY1/MDAxNDg1ODE0NTQ0MTE1.zTfSVmk13H8kiIUYZbk51d-EqgTaxKkp9xrBGnatTX4g.U4JKJphid0HmR7W0hQFIh1jrfj0lpfHnOGcLRs2kpFwg.PNG.nosugars/after.png?type=w580)
+![](http://postfiles16.naver.net/MjAxNzAxMzFfNTcg/MDAxNDg1ODE1NDQ5NDA2.NiD0Ix-MWSEeHrm8ixJnrK8pWSGDkQI_GBSEt1SlNAwg.AsWwBUT1ddNg5DlV856DUK4nrM2nBrAn9GIVJxnYePcg.PNG.nosugars/after.png?type=w3)
 
 **Data is beautified !!!! **
