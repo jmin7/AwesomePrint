@@ -12,7 +12,7 @@ Awesome print solves this problem by prettifying the output.
 
 gem "awesome_print", require:"ap"
 ```
-   Make sure to include the require:"ap" option
+Make sure to include the require:"ap" option
  <br>
  <br>
 
@@ -26,11 +26,12 @@ Do "bundle install" in your terminal and restart the rails console.
 <br>
 <br>
 
-## you are ready to use Awesome Print !!!
+### You are ready to use Awesome Print !!
 
 <br>
 <br>
 <br>
+
 
 # Before using Awesome Print
 
@@ -59,4 +60,8 @@ Don't forget to put ap.
 
 ![](http://postfiles16.naver.net/MjAxNzAxMzFfNTcg/MDAxNDg1ODE1NDQ5NDA2.NiD0Ix-MWSEeHrm8ixJnrK8pWSGDkQI_GBSEt1SlNAwg.AsWwBUT1ddNg5DlV856DUK4nrM2nBrAn9GIVJxnYePcg.PNG.nosugars/after.png?type=w3)
 
-**Data is beautified !!!!**
+**Data is beautified !!! **
+
+
+
+
